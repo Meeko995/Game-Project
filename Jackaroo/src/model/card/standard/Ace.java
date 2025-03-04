@@ -10,5 +10,5 @@ public class Ace extends Standard{
 		
 		
 	}
-	System.out.println("jana");
+	
 }
