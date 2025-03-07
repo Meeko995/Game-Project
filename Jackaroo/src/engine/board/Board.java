@@ -112,5 +112,6 @@ public class Board implements BoardManager{
 		        safeZones.add(newSafeZone);
 		    }
 		}
+		//jana did not eat ts up
 	}
 }
